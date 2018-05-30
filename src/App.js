@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Bio from './components/bio';
+import Projects from './components/projects';
+
 import './App.css';
 
 class App extends Component {
@@ -7,12 +9,17 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <div className="image"></div>
+          <h1 className="App-title">Hi, I'm Shari.</h1>
+          <div className="intro">
+            <p className="App-intro">I'm a Front End Web Developer with a passion for creating remarkable user experiences.</p>
+            <p className="App-coffee">Oh, and coffee. I love coffee.</p>
+          </div>
+          <div>
+            <Bio />
+            <Projects />
+          </div>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
       </div>
     );
   }
