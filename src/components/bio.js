@@ -1,4 +1,5 @@
 import React from 'react';
+import Links from './links';
 import './bio.css';
 import '../grid.css';
 
@@ -11,7 +12,7 @@ export default function Bio() {
         </p>
        </div>
        <div className="social-media">
-          <p className="links">GitHub | Twitter | LinkedIn | Email</p>
+          <Links />
         </div>
     </div>
   );

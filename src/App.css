@@ -1,9 +1,11 @@
 * {
   box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
 }
 
 .App-header {
   background-color: lightblue;
+  background-image: url("https://user-images.githubusercontent.com/29738609/40740580-0f2b318e-63fe-11e8-8202-e78c49e8845e.JPG");
   height: 360px;
   padding: 20px;
   color: black;
@@ -13,7 +15,6 @@
 .image {
   background-color: lightgray;
   height: 200px;
-  width: 200px;
   border-radius: 50%;
   float: right;
   margin-bottom: 10px;
@@ -22,7 +23,7 @@
 
 .App-title {
   margin-top: 215px;
-  font-size: 1.5em;
+  font-size: 24px;
   margin-bottom: 5px;
 }
 
@@ -34,15 +35,22 @@
   margin-top: 0px;
   margin-bottom: 0px;
   font-size: large;
-  width: 380px;
+  width: 400px;
   display: block;
+  font-weight: bolder;
 }
 
 .App-coffee {
   margin-top: 0px;
   margin-bottom: 0px;
   font-size: large;
-  width: 380px;
+  width: 400px;
   display: block;
+  text-align: right;
+  font-weight: bolder;
+}
+
+footer {
+  height: 100px;
 }
 
