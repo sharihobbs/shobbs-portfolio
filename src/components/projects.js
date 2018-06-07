@@ -13,7 +13,7 @@ export default function Projects() {
           <p>A recipe search tool for the cook looking to make something new with what they already have on hand. A convenient, in-app shopping list keeps track of any additional ingredients needed for the user's next culinary adventure.
           </p>
           <a className="demo-code" href="https://sharihobbs.github.io/on-hand/" target="_blank">Live Demo Site{'  '}|{'  '}</a>
-          <a className="demo-code" href="https://github.com/sharihobbs/on-hand" target="_blank">See it on Github</a>
+          <a className="demo-code" href="https://github.com/sharihobbs/on-hand" target="_blank">See it on GitHub</a>
         </div>
       </div>
       <div className="projects">
@@ -23,7 +23,7 @@ export default function Projects() {
           <p>An app inspired by the mindfulness practice of recognizing moments of gratitude throughout one's day. Keeping a log of what stirs joy or contentment is the best way to stay in a state of gratitude in even the most mundane moments.
           </p>
           <a className="demo-code" href="https://cryptic-plateau-80384.herokuapp.com/" target="_blank">Live Demo Site{'  '}|{'  '}</a>
-          <a className="demo-code" href="https://github.com/sharihobbs/capture" target="_blank">See it on Github</a>
+          <a className="demo-code" href="https://github.com/sharihobbs/capture" target="_blank">See it on GitHub</a>
         </div>
       </div>
       <div className="projects">
@@ -33,7 +33,7 @@ export default function Projects() {
           <p>Built to keep track of books that were recommended by friends, family, or in a magazine, online, etc. With the handy note feature, you can keep track of where you first heard of a particular title or who might want to read it next. Tome is simple, easy to reference, and utilizes the Google Books API Family to provide reliable, up to date information.
           </p>
           <a className="demo-code" href="https://sharp-swirles-724079.netlify.com/" target="_blank">Live Demo Site{'  '}|{'  '}</a>
-          <a className="demo-code" href="https://github.com/sharihobbs/tome-client" target="_blank">See it on Github</a>
+          <a className="demo-code" href="https://github.com/sharihobbs/tome-client" target="_blank">See it on GitHub</a>
         </div>
       </div>
     </div>
