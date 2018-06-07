@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Oxygen', sans-serif;
+  background-color: #484848;
+  color: white;
+}
+
+.background {
+  margin-top: 30px;
+  border-radius: 5px;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+.app-header {
+  border-radius: 5px;
+  text-align: left;
+}
+
+.app-title {
+  margin-top: 20px;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.app-intro {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: large;
+  display: block;
+  line-height: 1.2;
+}
+
+.social-media {
+  margin-top: 15px;
+}

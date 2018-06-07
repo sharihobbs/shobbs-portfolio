@@ -3,10 +3,27 @@
 }
 
 .bio {
-  margin-top: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   text-align: left;
+  font-size: 15px;
+  max-width: 800px;
 }
 
-.social-media {
-  text-align: left;
+.about {
+  line-height: 1;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
+
+.bio-p {
+  margin-top: 10px;
+}
+
+.image {
+  height: 200px;
+  border-radius: 50%;
+  margin-right: 20px;
+  float: left;
+}
+
