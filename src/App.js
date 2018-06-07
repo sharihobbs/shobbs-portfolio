@@ -11,7 +11,7 @@ class App extends Component {
       <div className="app row">
           <div>
             <Header />
-            <div class="arrow bounce">
+            <div class="arrow">
               <AnchorLink class="fa fa-angle-double-down fa-2x" href="#projects"></AnchorLink>
             </div>
             <div id="projects">
