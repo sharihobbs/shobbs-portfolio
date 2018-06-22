@@ -11,12 +11,12 @@ class App extends Component {
       <div className="app row">
           <div>
             <Header />
-            <div class="arrow">
+            <div className="arrow">
               <AnchorLink class="fa fa-angle-double-down fa-2x" href="#projects"></AnchorLink>
             </div>
             <div id="projects">
               <Projects />
-              <hr class="someClass"></hr>
+              <hr className="someClass"></hr>
               <Bio />
             </div>
           </div>

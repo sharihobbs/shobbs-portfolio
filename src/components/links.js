@@ -28,6 +28,12 @@ export default function Links() {
         target="_blank">
         <i className="fa fa-envelope"></i>
       </a>
+        <a className="link-item"
+        href="https://github.com/sharihobbs/shobbs-portfolio/files/2128436/ShariHobbs2018.pdf"
+        aria-label="Resume"
+        target="_blank">
+        <i className="fa fa-file"></i>
+      </a>
     </nav>
   );
 }
